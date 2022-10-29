@@ -1,7 +1,6 @@
 import { FlatList, Image, ScrollView, StyleSheet, Text, TextInput, View } from 'react-native'
 import React, { useEffect, useLayoutEffect, useState } from 'react'
 import { useNavigation } from '@react-navigation/native'
-import SimpleLottie from "../SimpleLottie";
 import { StatusBar } from 'expo-status-bar';
 import api from './api.json'
 import { contactline } from '../utils/contactline';
