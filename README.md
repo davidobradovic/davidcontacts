@@ -1,4 +1,4 @@
-# contact-app
+# Contact App | React Native
 Contact app maded by David
 
 ```bash
